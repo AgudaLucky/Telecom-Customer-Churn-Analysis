@@ -28,6 +28,15 @@ The analysis focused on identifying relationships between customer churn and:
 - Monthly Charges
 - Revenue
 - Customer Tenure <br>
+## Data Visualization 
+<h3 align="center">📊 Featured Data Analytics Project</h3>
+
+<p align="center">
+  <img src="Churn.png"
+       alt="Customer Churn Rates Analytics Dashboard"
+       width="100%">
+</p>
+
 ## Key Insights and Recommendation 
 1.	**Overall churn rate** <br>
 **Finding** <br>
